@@ -1,0 +1,34 @@
+body{
+    color: whitesmoke;
+}
+
+#upload{
+    text-align: center;
+    background-color: #00263B;
+    border-radius: 30px;
+}
+
+input{
+    margin: 1em 0;
+}
+
+#buttons{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1.2em 0;
+    border: 1px solid #00263B;
+    border-radius: 30px;
+    padding: 0.5em 0;
+}
+
+button{
+    background-color: #00263B;
+    border-radius: 20px;
+    width: 7em;
+    padding: 5px;
+    color: whitesmoke;
+}
+
+canvas{
+    max-width: 100%;
+}
